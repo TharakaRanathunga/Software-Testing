@@ -61,7 +61,3 @@ does not use property-based testing or test every possible numeric edge case,
 such as `NaN` and infinity. The tests demonstrate the required behavior but
 are not a complete mathematical verification of the library.
 
-## References
-
-Public GitHub repository: **replace this text with the URL of your public
-GitHub repository before submitting**.
